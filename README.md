@@ -5,7 +5,7 @@
 - 📘 Estou cursando tecnólogo em Cybersegurança na Unicesumar.
 - 💻 Atualmente trabalho na [Dataside](https://www.dataside.com.br/) como Analista de Monitoramento e estou buscando transicionar para uma posição de DevOps/SRE.
 
-### Algumas tecnologias e ferramentas que tenho estudado atualmente: 
+### Tecnologias e ferramentas que tenho estudado atualmente: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> 
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
