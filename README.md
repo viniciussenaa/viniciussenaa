@@ -1,7 +1,7 @@
 ### Oi, eu sou o Vinícius! 👋
 ##### Mas pode me chamar de Vini 😉
 
-- 📍 Moro em São José dos Campos - SP
+- 📍 São José dos Campos - SP
 - 📘 Estou cursando tecnólogo em Cybersegurança na Unicesumar.
 - 💻 Atualmente trabalho na [Dataside](https://www.dataside.com.br/) como Analista de Monitoramento e estou buscando transicionar para uma posição de DevOps/SRE.
 
@@ -23,7 +23,7 @@
 
 <br>
 
-Da uma olhadinha no meu [Blog](https://viniciussena.netlify.app/), lá eu posto sobre como tem sido essa jornada 😊.
+Da uma olhadinha no meu [Blog](https://viniciussena.netlify.app/), lá eu conto sobre como tem sido essa jornada 😊.
 
 ## Contatos:
 
