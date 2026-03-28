@@ -19,11 +19,11 @@ Atualmente faço o **DevOps Professional da LINUXtips** — um treinamento de 1 
 ## 🔭 Ferramentas que uso no dia a dia
 
 <p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -44,10 +44,10 @@ Atualmente faço o **DevOps Professional da LINUXtips** — um treinamento de 1 
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viniciussenaa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciussenaa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
-</p>
+[![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussenaa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/viniciussenaa/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussenaa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)](https://github.com/viniciussenaa/github-readme-stats)
+
 ---
 
 ## 📬 Contato
@@ -56,5 +56,4 @@ Atualmente faço o **DevOps Professional da LINUXtips** — um treinamento de 1 
 <a href="http://linkedin.com/in/viniciussena000"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:viniciussena000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://discord.com/users/videvx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://github.com/viniciussenaa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
