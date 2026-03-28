@@ -8,11 +8,9 @@
 
 ## Sobre mim
 
-Trabalho há **5 anos com Observabilidade** — monitorando sistemas, investigando falhas e garantindo a saúde de ambientes de produção.
+Trabalho há **5 anos com Observabilidade** — criando monitoramentos, monitorando sistemas, investigando falhas e garantindo a saúde de ambientes de produção.
 
 Estou em transição para **DevOps/SRE**, uma evolução natural de quem sempre quis entender não só _o que_ está quebrando, mas _por que_ e _como evitar_ que quebre.
-
-Atualmente faço o **DevOps Professional da LINUXtips** — um treinamento de 1 ano com +300h cobrindo toda a stack moderna de DevOps.
 
 ---
 
@@ -39,14 +37,6 @@ Atualmente faço o **DevOps Professional da LINUXtips** — um treinamento de 1 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-[![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussenaa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/viniciussenaa/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussenaa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)](https://github.com/viniciussenaa/github-readme-stats)
 
 ---
 
