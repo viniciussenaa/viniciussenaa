@@ -12,6 +12,8 @@ Trabalho há **5 anos com Observabilidade** — criando monitoramentos, monitora
 
 Estou em transição para **DevOps/SRE**, uma evolução natural de quem sempre quis entender não só _o que_ está quebrando, mas _por que_ e _como evitar_ que quebre.
 
+Documentando toda essa jornada no meu [blog](https://viniciussenaa.github.io).
+
 ---
 
 ## 🔭 Ferramentas que uso no dia a dia
