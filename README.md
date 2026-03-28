@@ -18,7 +18,7 @@ Atualmente faço o **DevOps Professional da LINUXtips** — um treinamento de 1 
 
 ## 🔭 Ferramentas que uso no dia a dia
 
-<p>\
+<p>
 <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" >
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" >
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" >
@@ -29,7 +29,7 @@ Atualmente faço o **DevOps Professional da LINUXtips** — um treinamento de 1 
 
 ## 🚀 Tecnologias em estudo
 
-<p>\
+<p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" >
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" >
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" >
@@ -44,10 +44,9 @@ Atualmente faço o **DevOps Professional da LINUXtips** — um treinamento de 1 
 ## 📊 GitHub Stats
 
 <p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=viniciussenaa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussenaa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viniciussenaa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciussenaa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 </p>
-
 ---
 
 ## 📬 Contato
