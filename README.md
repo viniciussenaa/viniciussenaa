@@ -22,7 +22,7 @@
 
 <br>
 
-Da uma olhadinha no meu [Blog](https://viniciussena.netlify.app/), lá eu conto sobre como tem sido essa jornada 😊.
+Da uma olhadinha no meu [Blog](https://viniciussenaa.github.io/), lá eu conto sobre como tem sido essa jornada 😊.
 
 ## Contatos:
 
