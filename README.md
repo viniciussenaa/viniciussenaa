@@ -2,8 +2,8 @@
 ┌─────────────────────────────────────────────────────────────────────┐
 │ viniciussena@github ~ [session: active]                             │
 ├─────────────────────────────────────────────────────────────────────┤
-│  ╱\_                                                                │
-│  $ whoami                                                    ( - 7  │
+│                                                                     │
+│  $ whoami                                                           │
 │  ┌──────────────────────────────────────────────────────────────┐   │
 │  │ Vinicius Sena · Observability Analyst → DevOps/SRE           │   │
 │  │ São José dos Campos, SP. BR                                  │   │
@@ -12,10 +12,10 @@
 │                                                                     │
 │  $ cat stack.conf                                                   │
 │                                                                     │
-│  [observability]  Zabbix · Grafana · Prometheus · Datadog · Loki   │
-│  [cloud & iac]    AWS · Terraform · Docker · Kubernetes            │
+│  [observability]  Zabbix · Grafana · Prometheus · Datadog · Loki    │
+│  [cloud & iac]    AWS · Terraform · Docker · Kubernetes             │
 │  [ci/cd]          GitHub Actions                                    │
-│  [languages]      Python · Go · Bash                               │
+│  [languages]      Python · Go · Bash                                │
 │  [os]             Linux                                             │
 │                                                                     │
 │  $ cat hobbies.txt                                                  │
